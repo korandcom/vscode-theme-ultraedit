@@ -1,0 +1,272 @@
+{
+	"$schema": "vscode://schemas/color-theme",
+	"name": "Ultraedit Dark",
+	"colors": {
+		
+		// Editor
+		
+		"editor.background": "#303030",
+		"editor.foreground": "#DEDEDE",
+		"editor.lineHighlightBackground": "#444444",
+		"editorLineNumber.foreground": "#666666",
+		
+		// Selection
+				
+		"editor.selectionBackground" : "#005E8A",
+		"editor.selectionHighlightBackground": "#005E8A60",
+		"editor.inactiveSelectionBackground": "#005E8A60",
+		
+		// Find
+		
+		"editor.findMatchBackground" : "#005E8A",
+		"editor.findMatchHighlightBackground" : "#005E8A60",
+		"editor.findRangeHighlightBackground" : "#005E8A60",
+		
+		// Bars
+		
+		"activityBar.background" : "#252525",
+		"sideBar.background" : "#252525",
+		"statusBar.background" : "#666666",
+		"statusBar.foreground" : "#cccccc",
+		
+		// Tabs
+		
+		"editorGroupHeader.tabsBackground" : "#252525",
+		"tab.border" : "#252525",
+		"tab.activeBackground" : "#444444",
+		"tab.activeForeground" : "#ffffff",
+		"tab.inactiveBackground" : "#303030",
+		"tab.inactiveForeground" : "#968f88",
+		"tab.activeBorder" : "#444444"
+		
+	},
+	"tokenColors": [
+		
+		// Comments
+		
+		{
+			"scope": "comment",
+			"settings": {
+				"foreground": "#669999"
+			}
+		},
+		
+		// Strings
+		
+		{
+			"scope": "string",
+			"settings": {
+				"foreground": "#aaaaaa"
+			}
+		},
+		
+		// Numbers
+		
+		{
+			"scope": [
+				"constant.numeric"
+			],
+			"settings": {
+				"foreground": "#FF9595"
+			}
+		},
+		
+		// Builtin functions
+		
+		{
+			"scope": [
+				"support.function"
+			],
+			"settings": {
+				"foreground": "#CB9696"
+			}
+		},
+		
+		// Variables
+		
+		{
+			"scope": [
+				"variable",
+				"meta.definition.variable entity.name.function"
+			],
+			"settings": {
+				"foreground": "#FFC891"
+			}
+		},
+		
+		// Classes
+		
+		{
+			"scope": [
+				"entity.name.type.class"
+			],
+			"settings": {
+				"fontStyle" : "bold"
+			}
+		},
+		
+		// Functions
+		
+		{
+			"scope": [
+				"meta.function entity.name.function",
+				"meta.function support.function"
+			],
+			"settings": {
+				"fontStyle" : "bold"
+			}
+		},
+		
+		{
+			"scope": [
+				"meta.function-call entity.name.function",
+				"meta.function-call support.function"
+			],
+			"settings": {
+				"fontStyle" : "normal"
+			}
+		},
+		
+		// Global variables, constants, storage type and etc
+		
+		{
+			"scope": [
+				"variable.other.global",
+				"constant",
+				"support.constant",
+				"storage",
+				"keyword"
+			],
+			"settings": {
+				"foreground": "#97CBFF"
+			}
+		},
+		
+		// Regexp
+		
+		{
+			"scope": "constant.regexp",
+			"settings": {
+				"foreground": "#4B83CD"
+			}
+		},
+		
+		// Operators, storage modifiers
+		
+		{
+			"scope": [
+				"keyword.operator",
+				"storage.modifier"
+			],
+			"settings": {
+				"foreground": "#7ba67b"
+			}
+		},
+		
+		// PHP
+		
+		{
+			"scope": [
+				"punctuation.section.embedded.begin.php",
+				"punctuation.section.embedded.end.php"
+			],
+			"settings": {
+				"foreground": "#A16A94"
+			}
+		},
+		
+		{
+			"scope": [
+				"support.function.construct.php"
+			],
+			"settings": {
+				"fontStyle" : "normal"
+			}
+		},
+		
+		// HTML
+		
+		{
+			"scope": [
+				"punctuation.definition.tag.html",
+				"punctuation.definition.tag.begin.html",
+				"punctuation.definition.tag.end.html",
+				"entity.name.tag.html",
+				"entity.name.tag.block.any.html",
+				"entity.name.tag.inline.any.html"
+			],
+			"settings": {
+				"foreground": "#97CBFF"
+			}
+		},
+		
+		{
+			"scope": [
+				"entity.other.attribute-name.html"
+			],
+			"settings": {
+				"foreground": "#FFAEAE"
+			}
+		},
+		
+		// CSS
+		
+		{
+			"scope": [
+				"entity.name.tag.css",
+				"entity.other.attribute-name.class.css",
+				"entity.other.attribute-name.id.css"
+			],
+			"settings": {
+				"foreground": "#97CBFF"
+			}
+		},
+		
+		{
+			"scope": [
+				"meta.property-value.css keyword.other.unit",
+				"meta.at-rule.media.header.css keyword.other.unit"
+			],
+			"settings": {
+				"foreground": "#FFC082"
+			}
+		},
+		
+		{
+			"scope": [
+				"meta.property-value.css support.constant",
+				"meta.property-value.css constant"
+			],
+			"settings": {
+				"foreground": "#DEDEDE"
+			}
+		},
+		
+		{
+			"scope": [
+				"meta.property-value.css support.function"
+			],
+			"settings": {
+				"fontStyle" : "normal"
+			}
+		},
+		
+		// SQL
+		
+		{
+			"scope": [
+				"keyword.other.sql",
+				"keyword.other.create.sql",
+				"keyword.other.DML.sql",
+				"keyword.other.DML.II.sql",
+				"keyword.other.postgres",
+				"keyword.other.sql.postgres",
+				"keyword.control.postgres"
+			],
+			"settings": {
+				"foreground": "#FFC891"
+			}
+		}
+		
+	]
+}

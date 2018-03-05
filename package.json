@@ -1,0 +1,25 @@
+{
+	"name": "theme-ultraedit",
+	"displayName": "Ultraedit light and dark color themes",
+	"description": "Ultraedit light and dark color themes for Visual Studio Code",
+	"categories": [ "Themes" ],
+	"version": "0.0.1",
+	"publisher": "korand",
+	"engines": { "vscode": "*" },
+	"contributes": {
+		"themes": [
+			{
+				"id": "Ultraedit Light",
+				"label": "Ultraedit Light",
+				"uiTheme": "vs",
+				"path": "./themes/light.json"
+			},
+			{
+				"id": "Ultraedit Dark",
+				"label": "Ultraedit Dark",
+				"uiTheme": "vs-dark",
+				"path": "./themes/dark.json"
+			}
+		]
+	}
+}
