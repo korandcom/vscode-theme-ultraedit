@@ -19,8 +19,9 @@
 		// Find
 		
 		"editor.findMatchBackground" : "#005E8A",
-		"editor.findMatchHighlightBackground" : "#005E8A60",
+		"editor.findMatchHighlightBackground" : "#30303000",
 		"editor.findRangeHighlightBackground" : "#005E8A60",
+		"editor.findMatchHighlightBorder" : "#DEDEDE80",
 		
 		// Bars
 		

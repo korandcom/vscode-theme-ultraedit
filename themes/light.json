@@ -13,14 +13,15 @@
 		// Selection
 		
 		"editor.selectionBackground" : "#BFDFFF",
-		"editor.selectionHighlightBackground": "#BFDFFF60",
-		"editor.inactiveSelectionBackground": "#BFDFFF60",
+		"editor.selectionHighlightBackground": "#BFDFFF40",
+		"editor.inactiveSelectionBackground": "#BFDFFF80",
 		
 		// Find
 		
-		"editor.findMatchBackground" : "#BFDFFF",
-		"editor.findMatchHighlightBackground" : "#BFDFFF60",
-		"editor.findRangeHighlightBackground" : "#BFDFFF60",
+		"editor.findMatchBackground" : "#BFDFFF90",
+		"editor.findMatchHighlightBackground" : "#BFDFFF00",
+		"editor.findRangeHighlightBackground" : "#BFDFFF40",
+		"editor.findMatchHighlightBorder" : "#00000080",
 		
 		// Bars
 		
