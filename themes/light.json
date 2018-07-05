@@ -25,6 +25,8 @@
 		
 		// Bars
 		
+		"titleBar.activeBackground": "#444444",
+		"titleBar.activeForeground": "#dddddd",
 		"activityBar.background" : "#252525",
 		"sideBar.background" : "#f0f0f0",
 		"statusBar.background" : "#555555",
