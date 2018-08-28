@@ -40,7 +40,12 @@
 		"tab.activeForeground" : "#707070",
 		"tab.inactiveBackground" : "#e0e0e0",
 		"tab.inactiveForeground" : "#707070",
-		"tab.activeBorder" : "#ffffff"
+		"tab.activeBorder" : "#ffffff",
+
+		// Menu
+
+		"list.focusBackground" : "#BFDFFF",
+		"list.focusForeground" : "#000000"
 	
 	},
 	"tokenColors": [
