@@ -44,8 +44,7 @@
 
 		// Menu
 
-		"list.focusBackground" : "#BFDFFF",
-		"list.focusForeground" : "#000000"
+		"list.focusBackground" : "#BFDFFFA0"
 	
 	},
 	"tokenColors": [
