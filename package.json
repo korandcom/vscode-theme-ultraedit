@@ -1,11 +1,11 @@
 {
 	"name": "theme-ultraedit",
 	"displayName": "Ultraedit light and dark color themes",
-	"description": "Ultraedit light and dark color themes for Visual Studio Code",
+	"description": "Ultraedit light and dark color themes for Visual Studio Code (PHP, HTML, JS, SQL)",
 	"categories": [
 		"Themes"
 	],
-	"version": "0.0.2",
+	"version": "0.0.3",
 	"publisher": "korand",
 	"repository": "https://github.com/korandcom/vscode-theme-ultraedit",
 	"engines": {
