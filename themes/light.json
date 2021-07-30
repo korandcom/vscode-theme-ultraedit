@@ -7,13 +7,13 @@
 		
 		"editor.background": "#FFFFFF",
 		"editor.foreground": "#000000",
-		"editor.lineHighlightBackground": "#FFFFD0",
+		"editor.lineHighlightBackground": "#FFFFD0EE",
 		"editorLineNumber.foreground": "#999999",
 		
 		// Selection
 		
 		"editor.selectionBackground" : "#BFDFFF",
-		"editor.selectionHighlightBackground": "#BFDFFF60",
+		"editor.selectionHighlightBackground": "#BFDFFF40",
 		"editor.inactiveSelectionBackground": "#BFDFFF90",
 		
 		// Find
@@ -42,9 +42,12 @@
 		"tab.inactiveForeground" : "#707070",
 		"tab.activeBorder" : "#ffffff",
 
-		// Menu
+		// List
 
-		"list.focusBackground" : "#BFDFFFA0"
+		"list.activeSelectionBackground" : "#4B83CD",
+		"list.activeSelectionForeground" : "#eee",
+		"list.focusHighlightForeground" : "#fff",
+		"list.activeSelectionIconForeground" : "#fff"
 	
 	},
 	"tokenColors": [

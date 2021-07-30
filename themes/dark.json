@@ -5,9 +5,9 @@
 		
 		// Editor
 		
-		"editor.background": "#303030",
+		"editor.background": "#202020",
 		"editor.foreground": "#DEDEDE",
-		"editor.lineHighlightBackground": "#444444",
+		"editor.lineHighlightBackground": "#303030",
 		"editorLineNumber.foreground": "#666666",
 		
 		// Selection
