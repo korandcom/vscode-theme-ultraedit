@@ -2,7 +2,7 @@
 	"$schema": "vscode://schemas/color-theme",
 	"name": "Ultraedit Dark",
 	"colors": {
-		
+
 		// Editor
 		
 		"editor.background": "#202020",
@@ -22,23 +22,35 @@
 		"editor.findMatchHighlightBackground" : "#30303000",
 		"editor.findRangeHighlightBackground" : "#005E8A60",
 		"editor.findMatchHighlightBorder" : "#DEDEDE80",
+
+		// Title bar
 		
-		// Bars
+		"titleBar.activeBackground": "#444444",
+		"titleBar.activeForeground": "#dddddd",
 		
-		"activityBar.background" : "#252525",
+		// Activity bar
+		
+		"activityBar.background" : "#303030",
+		
+		// Side bar
+		
 		"sideBar.background" : "#252525",
-		"statusBar.background" : "#666666",
+		"sideBar.border" : "#303030",
+		
+		// Status bar
+		
+		"statusBar.background" : "#555555",
 		"statusBar.foreground" : "#cccccc",
 		
 		// Tabs
 		
 		"editorGroupHeader.tabsBackground" : "#252525",
-		"tab.border" : "#252525",
-		"tab.activeBackground" : "#444444",
+		"tab.border" : "#333333",
+		"tab.inactiveBackground" : "#252525",
+		"tab.inactiveForeground" : "#888888",
+		"tab.activeBackground" : "#333333",
 		"tab.activeForeground" : "#ffffff",
-		"tab.inactiveBackground" : "#303030",
-		"tab.inactiveForeground" : "#968f88",
-		"tab.activeBorder" : "#444444"
+		"tab.activeBorder" : "#444444",
 		
 	},
 	"tokenColors": [

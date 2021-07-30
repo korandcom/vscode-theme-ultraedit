@@ -23,12 +23,21 @@
 		"editor.findRangeHighlightBackground" : "#BFDFFF40",
 		"editor.findMatchHighlightBorder" : "#00000080",
 		
-		// Bars
+		// Title bar
 		
 		"titleBar.activeBackground": "#444444",
 		"titleBar.activeForeground": "#dddddd",
+		
+		// Activity bar
+		
 		"activityBar.background" : "#252525",
+		
+		// Side bar
+		
 		"sideBar.background" : "#f0f0f0",
+		
+		// Status bar
+		
 		"statusBar.background" : "#555555",
 		"statusBar.foreground" : "#dddddd",
 		
