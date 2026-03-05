@@ -1,114 +1,121 @@
 {
 	"$schema": "vscode://schemas/color-theme",
 	"name": "Ultraedit Dark",
+	"type": "dark",
 	"colors": {
 
 		// Editor
-		
-		"editor.background": "#202020",
-		"editor.foreground": "#DEDEDE",
-		"editor.lineHighlightBackground": "#303030",
+
+		"editor.background": "#1E1E1E",
+		"editor.foreground": "#D4D4D4",
+		"editor.lineHighlightBackground": "#2A2A1E",
 		"editorLineNumber.foreground": "#666666",
-		
+
 		// Selection
-				
-		"editor.selectionBackground" : "#005E8A",
-		"editor.selectionHighlightBackground": "#005E8A60",
-		"editor.inactiveSelectionBackground": "#005E8A60",
-		
+
+		"editor.selectionBackground" : "#264F78",
+		"editor.selectionHighlightBackground": "#264F7840",
+		"editor.inactiveSelectionBackground": "#264F7890",
+
 		// Find
-		
-		"editor.findMatchBackground" : "#005E8A",
-		"editor.findMatchHighlightBackground" : "#30303000",
-		"editor.findRangeHighlightBackground" : "#005E8A60",
-		"editor.findMatchHighlightBorder" : "#DEDEDE80",
+
+		"editor.findMatchBackground" : "#264F7890",
+		"editor.findMatchHighlightBackground" : "#264F7800",
+		"editor.findRangeHighlightBackground" : "#264F7840",
+		"editor.findMatchHighlightBorder" : "#FFFFFF80",
 
 		// Title bar
-		
-		"titleBar.activeBackground": "#444444",
-		"titleBar.activeForeground": "#dddddd",
-		
+
+		"titleBar.activeBackground": "#2D2D2D",
+		"titleBar.activeForeground": "#CCCCCC",
+
 		// Activity bar
-		
-		"activityBar.background" : "#303030",
-		
+
+		"activityBar.background" : "#1A1A1A",
+
 		// Side bar
-		
+
 		"sideBar.background" : "#252525",
-		"sideBar.border" : "#303030",
-		
+
 		// Status bar
-		
-		"statusBar.background" : "#555555",
-		"statusBar.foreground" : "#cccccc",
-		
+
+		"statusBar.background" : "#333333",
+		"statusBar.foreground" : "#CCCCCC",
+
 		// Tabs
-		
+
 		"editorGroupHeader.tabsBackground" : "#252525",
-		"tab.border" : "#333333",
-		"tab.inactiveBackground" : "#252525",
+		"tab.border" : "#1E1E1E",
+		"tab.activeBackground" : "#1E1E1E",
+		"tab.activeForeground" : "#D4D4D4",
+		"tab.inactiveBackground" : "#2D2D2D",
 		"tab.inactiveForeground" : "#888888",
-		"tab.activeBackground" : "#333333",
-		"tab.activeForeground" : "#ffffff",
-		"tab.activeBorder" : "#444444",
-		
+		"tab.activeBorder" : "#1E1E1E",
+
+		// List
+
+		"list.activeSelectionBackground" : "#4B83CD",
+		"list.activeSelectionForeground" : "#EEEEEE",
+		"list.focusHighlightForeground" : "#FFFFFF",
+		"list.activeSelectionIconForeground" : "#FFFFFF"
+
 	},
 	"tokenColors": [
-		
+
 		// Comments
-		
+
 		{
 			"scope": "comment",
 			"settings": {
-				"foreground": "#669999"
+				"foreground": "#4EC9B0"
 			}
 		},
-		
+
 		// Strings
-		
+
 		{
 			"scope": "string",
 			"settings": {
-				"foreground": "#aaaaaa"
+				"foreground": "#AAAAAA"
 			}
 		},
-		
+
 		// Numbers
-		
+
 		{
 			"scope": [
 				"constant.numeric"
 			],
 			"settings": {
-				"foreground": "#FF9595"
+				"foreground": "#FF6060"
 			}
 		},
-		
+
 		// Builtin functions
-		
+
 		{
 			"scope": [
 				"support.function"
 			],
 			"settings": {
-				"foreground": "#CB9696"
+				"foreground": "#C08080"
 			}
 		},
-		
+
 		// Variables
-		
+
 		{
 			"scope": [
 				"variable",
 				"meta.definition.variable entity.name.function"
 			],
 			"settings": {
-				"foreground": "#FFC891"
+				"foreground": "#FFB040"
 			}
 		},
-		
+
 		// Classes
-		
+
 		{
 			"scope": [
 				"entity.name.type.class"
@@ -117,9 +124,9 @@
 				"fontStyle" : "bold"
 			}
 		},
-		
+
 		// Functions
-		
+
 		{
 			"scope": [
 				"meta.function entity.name.function",
@@ -129,7 +136,7 @@
 				"fontStyle" : "bold"
 			}
 		},
-		
+
 		{
 			"scope": [
 				"meta.function-call entity.name.function",
@@ -139,9 +146,9 @@
 				"fontStyle" : ""
 			}
 		},
-		
+
 		// Global variables, constants, storage type and etc
-		
+
 		{
 			"scope": [
 				"variable.other.global",
@@ -151,43 +158,43 @@
 				"keyword"
 			],
 			"settings": {
-				"foreground": "#97CBFF"
+				"foreground": "#6699DD"
 			}
 		},
-		
+
 		// Regexp
-		
+
 		{
 			"scope": "constant.regexp",
 			"settings": {
-				"foreground": "#4B83CD"
+				"foreground": "#6B9FDD"
 			}
 		},
-		
+
 		// Operators, storage modifiers
-		
+
 		{
 			"scope": [
 				"keyword.operator",
 				"storage.modifier"
 			],
 			"settings": {
-				"foreground": "#7ba67b"
+				"foreground": "#50B050"
 			}
 		},
-		
+
 		// PHP
-		
+
 		{
 			"scope": [
 				"punctuation.section.embedded.begin.php",
 				"punctuation.section.embedded.end.php"
 			],
 			"settings": {
-				"foreground": "#A16A94"
+				"foreground": "#C186B4"
 			}
 		},
-		
+
 		{
 			"scope": [
 				"support.function.construct.php"
@@ -196,9 +203,9 @@
 				"fontStyle" : ""
 			}
 		},
-		
+
 		// HTML/XML
-		
+
 		{
 			"scope": [
 				"punctuation.definition.tag",
@@ -209,21 +216,21 @@
 				"entity.name.tag.inline.any"
 			],
 			"settings": {
-				"foreground": "#97CBFF"
+				"foreground": "#6699DD"
 			}
 		},
-		
+
 		{
 			"scope": [
 				"entity.other.attribute-name"
 			],
 			"settings": {
-				"foreground": "#FFAEAE"
+				"foreground": "#FF6060"
 			}
 		},
-		
+
 		// CSS
-		
+
 		{
 			"scope": [
 				"entity.name.tag.css",
@@ -231,30 +238,30 @@
 				"entity.other.attribute-name.id.css"
 			],
 			"settings": {
-				"foreground": "#97CBFF"
+				"foreground": "#6699DD"
 			}
 		},
-		
+
 		{
 			"scope": [
 				"meta.property-value.css keyword.other.unit",
 				"meta.at-rule.media.header.css keyword.other.unit"
 			],
 			"settings": {
-				"foreground": "#FFC082"
+				"foreground": "#FF6060"
 			}
 		},
-		
+
 		{
 			"scope": [
 				"meta.property-value.css support.constant",
 				"meta.property-value.css constant"
 			],
 			"settings": {
-				"foreground": "#DEDEDE"
+				"foreground": "#FFB040"
 			}
 		},
-		
+
 		{
 			"scope": [
 				"meta.property-value.css support.function"
@@ -263,9 +270,9 @@
 				"fontStyle" : ""
 			}
 		},
-		
+
 		// SQL
-		
+
 		{
 			"scope": [
 				"keyword.other.sql",
@@ -277,9 +284,9 @@
 				"keyword.control.postgres"
 			],
 			"settings": {
-				"foreground": "#FFC891"
+				"foreground": "#FFB040"
 			}
 		}
-		
+
 	]
 }

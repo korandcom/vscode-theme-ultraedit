@@ -1,35 +1,35 @@
 {
-	"name": "theme-ultraedit",
-	"displayName": "Ultraedit light and dark color themes",
-	"description": "Ultraedit light and dark color themes for Visual Studio Code (PHP, HTML, JS, SQL)",
-	"categories": [
-		"Themes"
-	],
-	"version": "0.0.3",
-	"publisher": "korand",
-	"repository": "https://github.com/korandcom/vscode-theme-ultraedit",
-	"engines": {
-		"vscode": "*"
-	},
-	"contributes": {
-		"themes": [
-			{
-				"id": "Ultraedit Light",
-				"label": "Ultraedit Light",
-				"uiTheme": "vs",
-				"path": "./themes/light.json"
-			},
-			{
-				"id": "Ultraedit Dark",
-				"label": "Ultraedit Dark",
-				"uiTheme": "vs-dark",
-				"path": "./themes/dark.json"
-			}
-		]
-	},
-	"__metadata": {
-		"id": "37145871-8de2-4dc0-9df1-a3cb5ab2c6d3",
-		"publisherDisplayName": "Korand",
-		"publisherId": "89ce3057-d27b-4ecc-8e3a-cdc46618d61f"
-	}
+  "name": "theme-ultraedit",
+  "displayName": "Ultraedit light and dark color themes",
+  "description": "Ultraedit light and dark color themes for Visual Studio Code (PHP, HTML, JS, SQL)",
+  "categories": [
+    "Themes"
+  ],
+  "version": "0.0.5",
+  "publisher": "korand",
+  "repository": "https://github.com/korandcom/vscode-theme-ultraedit",
+  "engines": {
+    "vscode": "*"
+  },
+  "contributes": {
+    "themes": [
+      {
+        "id": "Ultraedit Light",
+        "label": "Ultraedit Light",
+        "uiTheme": "vs",
+        "path": "./themes/light.json"
+      },
+      {
+        "id": "Ultraedit Dark",
+        "label": "Ultraedit Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/dark.json"
+      }
+    ]
+  },
+  "__metadata": {
+    "id": "37145871-8de2-4dc0-9df1-a3cb5ab2c6d3",
+    "publisherDisplayName": "Korand",
+    "publisherId": "89ce3057-d27b-4ecc-8e3a-cdc46618d61f"
+  }
 }
