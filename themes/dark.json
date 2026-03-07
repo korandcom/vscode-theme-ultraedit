@@ -27,6 +27,7 @@
 
     "titleBar.activeBackground": "#2D2D2D",
     "titleBar.activeForeground": "#CCCCCC",
+    "titleBar.border": "#444444",
 
     // Activity bar
 
@@ -43,14 +44,13 @@
 
     // Tabs
 
-    "editorGroupHeader.tabsBackground": "#252525",
-    "tab.border": "#1E1E1E",
+    "editorGroupHeader.tabsBackground": "#2D2D2D",
+    "tab.border": "#444444",
     "tab.activeBackground": "#1E1E1E",
     "tab.activeForeground": "#D4D4D4",
     "tab.inactiveBackground": "#2D2D2D",
     "tab.inactiveForeground": "#888888",
     "tab.activeBorder": "#1E1E1E",
-    "tab.activeBorderTop": "#4B83CD",
 
     // List
 
