@@ -13,7 +13,7 @@
     // Selection
 
     "editor.selectionBackground": "#264F78",
-    "editor.selectionHighlightBackground": "#264F7840",
+    "editor.selectionHighlightBackground": "#264F7880",
     "editor.inactiveSelectionBackground": "#264F7890",
 
     // Find
