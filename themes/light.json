@@ -270,6 +270,66 @@
 			}
 		},
 		
+		// JSON
+
+		{
+			"scope": [
+				"punctuation.support.type.property-name.begin.json",
+				"punctuation.support.type.property-name.end.json"
+			],
+			"settings": {
+				"foreground": "#686868"
+			}
+		},
+
+		{
+			"scope": [
+				"support.type.property-name.json"
+			],
+			"settings": {
+				"foreground": "#FF8000"
+			}
+		},
+
+		{
+			"scope": [
+				"string.quoted.double.json"
+			],
+			"settings": {
+				"foreground": "#686868"
+			}
+		},
+
+		{
+			"scope": [
+				"constant.numeric.json"
+			],
+			"settings": {
+				"foreground": "#FF0000"
+			}
+		},
+
+		{
+			"scope": [
+				"constant.language.json"
+			],
+			"settings": {
+				"foreground": "#0000FF"
+			}
+		},
+
+		{
+			"scope": [
+				"punctuation.definition.dictionary.begin.json",
+				"punctuation.definition.dictionary.end.json",
+				"punctuation.definition.array.begin.json",
+				"punctuation.definition.array.end.json"
+			],
+			"settings": {
+				"foreground": "#008000"
+			}
+		},
+
 		// SQL
 		
 		{
