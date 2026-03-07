@@ -50,6 +50,7 @@
     "tab.inactiveBackground": "#2D2D2D",
     "tab.inactiveForeground": "#888888",
     "tab.activeBorder": "#1E1E1E",
+    "tab.activeBorderTop": "#4B83CD",
 
     // List
 
