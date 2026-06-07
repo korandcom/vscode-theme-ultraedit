@@ -104,7 +104,7 @@
     {
       "scope": ["variable", "meta.definition.variable entity.name.function"],
       "settings": {
-        "foreground": "#FFB040"
+        "foreground": "#C8843A"
       }
     },
 
@@ -243,7 +243,7 @@
         "meta.property-value.css constant"
       ],
       "settings": {
-        "foreground": "#FFB040"
+        "foreground": "#C8843A"
       }
     },
 
@@ -269,7 +269,7 @@
     {
       "scope": ["support.type.property-name.json"],
       "settings": {
-        "foreground": "#FFB040"
+        "foreground": "#C8843A"
       }
     },
 
@@ -319,7 +319,7 @@
         "keyword.control.postgres"
       ],
       "settings": {
-        "foreground": "#FFB040"
+        "foreground": "#C8843A"
       }
     }
   ]
