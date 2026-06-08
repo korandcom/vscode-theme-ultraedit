@@ -6,7 +6,7 @@
     // Editor
 
     "editor.background": "#2B303B",
-    "editor.foreground": "#D4D4D4",
+    "editor.foreground": "#ECEFF4",
     "editor.lineHighlightBackground": "#32384599",
     "editorLineNumber.foreground": "#616E88",
 
@@ -117,7 +117,7 @@
     {
       "scope": ["support.function"],
       "settings": {
-        "foreground": "#C08080"
+        "foreground": "#D08888"
       }
     },
 
@@ -126,7 +126,7 @@
     {
       "scope": ["variable", "meta.definition.variable entity.name.function"],
       "settings": {
-        "foreground": "#C8843A"
+        "foreground": "#D8943A"
       }
     },
 
