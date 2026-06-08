@@ -24,6 +24,12 @@
         "label": "Ultraedit Dark",
         "uiTheme": "vs-dark",
         "path": "./themes/dark.json"
+      },
+      {
+        "id": "Ultraedit Nord",
+        "label": "Ultraedit Nord",
+        "uiTheme": "vs-dark",
+        "path": "./themes/nord.json"
       }
     ]
   },
