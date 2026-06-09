@@ -81,6 +81,13 @@
     "editorHoverWidget.background": "#3C4251",
     "editorHoverWidget.border": "#4C566A",
 
+    // Diff
+
+    "diffEditor.insertedTextBackground": "#50B05018",
+    "diffEditor.removedTextBackground": "#FF606018",
+    "diffEditor.insertedLineBackground": "#50B05010",
+    "diffEditor.removedLineBackground": "#FF606010",
+
     // Unused code
     "editorUnnecessaryCode.opacity": "#00000070"
   },
