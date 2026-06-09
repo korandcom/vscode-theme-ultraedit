@@ -36,11 +36,14 @@
     // Side bar
 
     "sideBar.background": "#3B4252",
+    "sideBarSectionHeader.background": "#434C5E",
+    "sideBarSectionHeader.border": "#4C566A",
 
     // Status bar
 
-    "statusBar.background": "#4C566A",
-    "statusBar.foreground": "#ECEFF4",
+    "statusBar.background": "#434C5E",
+    "statusBar.foreground": "#D4D4D4",
+    "statusBar.border": "#4C566A",
 
     // Tabs
 
@@ -61,7 +64,7 @@
 
     // Quick Pick / Command Palette
 
-    "quickInput.background": "#3C4251",
+    "quickInput.background": "#434C5E",
     "quickInputList.focusBackground": "#4C566A",
     "pickerGroup.border": "#434C5E",
 
@@ -72,14 +75,33 @@
     "list.focusHighlightForeground": "#FFFFFF",
     "list.activeSelectionIconForeground": "#FFFFFF",
     "list.inactiveSelectionBackground": "#4C566A",
-    "list.hoverBackground": "#4C566A60",
+    "list.hoverBackground": "#4C566A90",
     "list.focusOutline": "#4C566A",
     "list.inactiveFocusOutline": "#4C566A",
+
+    // Checkbox
+
+    "checkbox.background": "#343B4A",
+    "checkbox.border": "#4C566A",
+
+    // Notifications
+
+    "notifications.background": "#434C5E",
+    "notifications.border": "#4C566A",
+    "notificationCenter.border": "#4C566A",
+    "notificationCenterHeader.background": "#4C566A",
 
     // Hover / Tooltip
 
     "editorHoverWidget.background": "#3C4251",
     "editorHoverWidget.border": "#4C566A",
+
+    // Diff
+
+    "diffEditor.insertedTextBackground": "#9bb95533",
+    "diffEditor.removedTextBackground": "#ff000033",
+    "diffEditor.insertedLineBackground": "#9bb9551a",
+    "diffEditor.removedLineBackground": "#ff00001a",
 
     // Unused code
     "editorUnnecessaryCode.opacity": "#00000070"
