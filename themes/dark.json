@@ -3,7 +3,6 @@
   "name": "Ultraedit Dark",
   "type": "dark",
   "colors": {
-
     // Editor
 
     "editor.background": "#2B303B",
@@ -33,6 +32,7 @@
     // Activity bar
 
     "activityBar.background": "#2B303B",
+    "activityBar.border": "#40485880",
 
     // Side bar
 
@@ -97,6 +97,13 @@
     "notifications.border": "#404858",
     "notificationCenter.border": "#404858",
     "notificationCenterHeader.background": "#404858",
+
+    // Scrollbar and shadows
+
+    "editorGroupHeader.border": "#40485880",
+    "scrollbar.shadow": "#000000C0",
+    "editorStickyScroll.border": "#1E2430",
+    "editorStickyScroll.shadow": "#1E2430",
 
     // Hover / Tooltip
 
