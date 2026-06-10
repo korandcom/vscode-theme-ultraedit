@@ -55,11 +55,17 @@
     "tab.inactiveForeground": "#8890A0",
     "tab.activeBorder": "#2E3440",
 
-    // Input / Select
+    // Inputs
 
-    "input.background": "#343B4A",
-    "dropdown.background": "#343B4A",
+    "input.background": "#2E3440",
+    "input.foreground": "#D4D4D4",
     "input.border": "#4C566A",
+    "dropdown.background": "#2E3440",
+    "dropdown.foreground": "#D4D4D4",
+    "dropdown.border": "#4C566A",
+    "checkbox.background": "#2E3440",
+    "checkbox.foreground": "#D4D4D4",
+    "checkbox.border": "#4C566A",
     "focusBorder": "#4C566A",
 
     // Quick Pick / Command Palette
@@ -78,11 +84,6 @@
     "list.hoverBackground": "#4C566A90",
     "list.focusOutline": "#4C566A",
     "list.inactiveFocusOutline": "#4C566A",
-
-    // Checkbox
-
-    "checkbox.background": "#343B4A",
-    "checkbox.border": "#4C566A",
 
     // Notifications
 
