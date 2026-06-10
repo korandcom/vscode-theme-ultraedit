@@ -14,7 +14,7 @@
     // Selection
 
     "editor.selectionBackground": "#4C566A",
-    "editor.selectionHighlightBackground": "#4C566A80",
+    "editor.selectionHighlightBackground": "#4C566A60",
     "editor.inactiveSelectionBackground": "#4C566A90",
 
     // Find
@@ -22,7 +22,7 @@
     "editor.findMatchBackground": "#4C566A90",
     "editor.findMatchHighlightBackground": "#4C566A00",
     "editor.findRangeHighlightBackground": "#4C566A40",
-    "editor.findMatchHighlightBorder": "#FFFFFF80",
+    "editor.findMatchHighlightBorder": "#FFFFFF60",
 
     // Title bar
 
