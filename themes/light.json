@@ -114,7 +114,7 @@
     {
       "scope": "comment",
       "settings": {
-        "foreground": "#008080"
+        "foreground": "#008080C0"
       }
     },
 
