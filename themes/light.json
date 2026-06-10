@@ -100,8 +100,16 @@
 
     // Hover / Tooltip
 
-    "editorHoverWidget.background": "#F0F2F5",
+    "editorHoverWidget.background": "#F0F1F3",
     "editorHoverWidget.border": "#C8CBD5",
+
+    // Suggest Widget (autocomplete)
+
+    "editorSuggestWidget.background": "#F0F1F3",
+    "editorSuggestWidget.border": "#C8CBD5",
+    "editorSuggestWidget.selectedBackground": "#4B83CDCC",
+    "editorSuggestWidget.selectedForeground": "#FFFFFF",
+    "editorSuggestWidget.highlightForeground": "#303848",
 
     // Unused code
 

@@ -1,3 +1,4 @@
 npm install -g @vscode/vsce
 vsce login ...
 vsce publish
+vsce publish -p <token>

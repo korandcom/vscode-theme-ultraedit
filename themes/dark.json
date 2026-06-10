@@ -100,11 +100,19 @@
 
     // Hover / Tooltip
 
-    "editorHoverWidget.background": "#3C4251",
+    "editorHoverWidget.background": "#404858",
     "editorHoverWidget.border": "#4C566A",
 
+    // Suggest Widget (autocomplete)
+
+    "editorSuggestWidget.background": "#404858",
+    "editorSuggestWidget.border": "#4C566A",
+    "editorSuggestWidget.selectedBackground": "#4C566A",
+    "editorSuggestWidget.selectedForeground": "#D4D4D4",
+    "editorSuggestWidget.highlightForeground": "#ECEFF4",
+
     // Unused code
-    
+
     "editorUnnecessaryCode.opacity": "#00000070"
   },
   "tokenColors": [
