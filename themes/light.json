@@ -140,7 +140,19 @@
     {
       "scope": "comment",
       "settings": {
-        "foreground": "#008080C0"
+        "foreground": "#55A0A0C0"
+      }
+    },
+
+    // JSDoc tags (@deprecated etc.)
+
+    {
+      "scope": [
+        "comment storage.type.class.jsdoc",
+        "comment punctuation.definition.block.tag.jsdoc"
+      ],
+      "settings": {
+        "foreground": "#FF000090"
       }
     },
 
@@ -249,7 +261,7 @@
         "meta.type.parameters"
       ],
       "settings": {
-        "foreground": "#65798F"
+        "foreground": "#5476a0"
       }
     },
 
