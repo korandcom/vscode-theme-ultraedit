@@ -41,6 +41,12 @@
     "sideBarSectionHeader.background": "#404858",
     "sideBarSectionHeader.border": "#4C566A",
 
+    // Panel (terminal, output, problems, etc.)
+
+    "panel.background": "#404858",
+    "panel.border": "#40485880",
+    "panelTitle.activeBorder": "#4C566A",
+
     // Status bar
 
     "statusBar.background": "#404858",
