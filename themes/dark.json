@@ -120,7 +120,18 @@
 
     // Unused code
 
-    "editorUnnecessaryCode.opacity": "#00000070"
+    "editorUnnecessaryCode.opacity": "#00000070",
+
+    // Diff / Merge
+
+    "diffEditor.insertedTextBackground": "#3A5C3A80",
+    "diffEditor.removedTextBackground": "#5C3A3A80",
+    "diffEditor.insertedLineBackground": "#3A5C3A40",
+    "diffEditor.removedLineBackground": "#5C3A3A40",
+    "diffEditorGutter.insertedLineBackground": "#3A5C3A40",
+    "diffEditorGutter.removedLineBackground": "#5C3A3A40",
+    "diffEditorOverview.insertedForeground": "#4A9A4A",
+    "diffEditorOverview.removedForeground": "#9A4A4A"
   },
   "tokenColors": [
 
