@@ -118,6 +118,17 @@
     "editorSuggestWidget.selectedForeground": "#FFFFFF",
     "editorSuggestWidget.highlightForeground": "#303848",
 
+    // Peek View (References, Definitions)
+
+    "peekView.border": "#C8CBD5",
+    "peekViewEditor.background": "#FFFFFF",
+    "peekViewEditorGutter.background": "#FFFFFF",
+    "peekViewResult.background": "#F6F8FA",
+    "peekViewResult.selectionBackground": "#4B83CDCC",
+    "peekViewResult.matchHighlightBackground": "#BFDFFF90",
+    "peekViewEditor.matchHighlightBackground": "#BFDFFF90",
+    "peekViewTitle.background": "#F0F1F3",
+
     // Unused code
 
     "editorUnnecessaryCode.opacity": "#00000050",
