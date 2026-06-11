@@ -124,8 +124,8 @@
 
     // Diff / Merge
 
-    "diffEditor.insertedTextBackground": "#a5d6a770",
-    "diffEditor.removedTextBackground": "#ef9a9a70",
+    "diffEditor.insertedTextBackground": "#a5d6a760",
+    "diffEditor.removedTextBackground": "#ef9a9a60",
     "diffEditor.insertedLineBackground": "#c8e6c940",
     "diffEditor.removedLineBackground": "#ffcdd240",
     "diffEditorGutter.insertedLineBackground": "#a5d6a740",

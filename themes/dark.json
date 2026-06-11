@@ -124,12 +124,12 @@
 
     // Diff / Merge
 
-    "diffEditor.insertedTextBackground": "#3A5C3A80",
+    "diffEditor.insertedTextBackground": "#3A5C3A60",
     "diffEditor.removedTextBackground": "#5C3A3A80",
-    "diffEditor.insertedLineBackground": "#3A5C3A40",
-    "diffEditor.removedLineBackground": "#5C3A3A40",
-    "diffEditorGutter.insertedLineBackground": "#3A5C3A40",
-    "diffEditorGutter.removedLineBackground": "#5C3A3A40",
+    "diffEditor.insertedLineBackground": "#3A5C3A30",
+    "diffEditor.removedLineBackground": "#5C3A3A30",
+    "diffEditorGutter.insertedLineBackground": "#3A5C3A30",
+    "diffEditorGutter.removedLineBackground": "#5C3A3A30",
     "diffEditorOverview.insertedForeground": "#4A9A4A",
     "diffEditorOverview.removedForeground": "#9A4A4A"
   },
