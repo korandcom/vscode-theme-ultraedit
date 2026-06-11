@@ -235,6 +235,33 @@
       }
     },
 
+    // Decorators
+
+    {
+      "scope": [
+        "meta.decorator entity.name.function",
+        "meta.decorator meta.function-call entity.name.function",
+        "meta.decorator punctuation.decorator"
+      ],
+      "settings": {
+        "foreground": "#C186B4"
+      }
+    },
+
+    // Types
+
+    {
+      "scope": [
+        "support.type.primitive",
+        "meta.type.annotation",
+        "meta.return.type",
+        "meta.type.parameters"
+      ],
+      "settings": {
+        "foreground": "#8FA3BB"
+      }
+    },
+
     // Regexp
 
     {
