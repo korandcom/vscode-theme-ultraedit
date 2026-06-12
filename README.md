@@ -1,5 +1,9 @@
-# vscode-theme-ultraedit
+# Ultraedit dark and light color themes for VS Code.
 
-Ultraedit light and dark color themes for Visual Studio Code.
+### Ultraedit Dark
 
-Optimized for web developing: JavaScript, Typescript, PHP, HTML, CSS, SQL, JSON.
+![Dark Theme](images/dark.png)
+
+### Ultraedit Light
+
+![Dark Theme](images/light.png)
