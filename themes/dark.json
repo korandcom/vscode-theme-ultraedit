@@ -108,9 +108,9 @@
 
     "editorGroupHeader.border": "#40485880",
     "scrollbar.shadow": "#000000C0",
-    "scrollbarSlider.background": "#4C566A55",
-    "scrollbarSlider.hoverBackground": "#4C566A88",
-    "scrollbarSlider.activeBackground": "#4C566ABB",
+    "scrollbarSlider.background": "#83848533",
+    "scrollbarSlider.hoverBackground": "#83848566",
+    "scrollbarSlider.activeBackground": "#83848599",
     "editorStickyScroll.border": "#1E2430",
     "editorStickyScroll.shadow": "#1E2430",
 
