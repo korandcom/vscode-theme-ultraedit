@@ -43,7 +43,7 @@
 
     // Panel (terminal, output, problems, etc.)
 
-    "panel.background": "#F6F8FA",
+    "panel.background": "#ECF0F4",
     "panel.border": "#E1E4E8",
     "panelTitle.activeBorder": "#4B83CDCC",
 
@@ -79,7 +79,7 @@
 
     // Quick Pick / Command Palette
 
-    "quickInput.background": "#F6F8FA",
+    "quickInput.background": "#ECF0F4",
     "quickInputList.focusBackground": "#4B83CDCC",
     "pickerGroup.border": "#C8CBD5",
 
@@ -99,26 +99,34 @@
 
     // Notifications
 
-    "notifications.background": "#F6F8FA",
+    "notifications.background": "#ECF0F4",
     "notifications.border": "#E1E4E8",
     "notificationCenter.border": "#E1E4E8",
-    "notificationCenterHeader.background": "#F6F8FA",
+    "notificationCenterHeader.background": "#ECF0F4",
 
     // Scrollbar and shadows
 
     "editorGroupHeader.border": "#CACED4",
-    "scrollbar.shadow": "#00000050",
+    "scrollbar.shadow": "#6a737d33",
+    "scrollbarSlider.background": "#959da533",
+    "scrollbarSlider.hoverBackground": "#959da544",
+    "scrollbarSlider.activeBackground": "#959da588",
     "editorStickyScroll.border": "#CACED4",
     "editorStickyScroll.shadow": "#00000020",
 
+    // Editor Widget (Ctrl+F search, replace)
+
+    "editorWidget.background": "#ECF0F4",
+    "editorWidget.border": "#C8CBD5",
+
     // Hover / Tooltip
 
-    "editorHoverWidget.background": "#F0F1F3",
+    "editorHoverWidget.background": "#ECF0F4",
     "editorHoverWidget.border": "#C8CBD5",
 
     // Suggest Widget (autocomplete)
 
-    "editorSuggestWidget.background": "#F0F1F3",
+    "editorSuggestWidget.background": "#ECF0F4",
     "editorSuggestWidget.border": "#C8CBD5",
     "editorSuggestWidget.selectedBackground": "#4B83CDCC",
     "editorSuggestWidget.selectedForeground": "#FFFFFF",
@@ -147,8 +155,8 @@
     "diffEditor.removedLineBackground": "#ffcdd240",
     "diffEditorGutter.insertedLineBackground": "#a5d6a740",
     "diffEditorGutter.removedLineBackground": "#ef9a9a40",
-    "diffEditorOverview.insertedForeground": "#587c0c",
-    "diffEditorOverview.removedForeground": "#ad0707"
+    "diffEditorOverview.insertedForeground": "#a5d6a790",
+    "diffEditorOverview.removedForeground": "#ef9a9a90"
   },
   "tokenColors": [
 

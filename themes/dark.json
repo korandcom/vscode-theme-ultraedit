@@ -108,8 +108,16 @@
 
     "editorGroupHeader.border": "#40485880",
     "scrollbar.shadow": "#000000C0",
+    "scrollbarSlider.background": "#4C566A55",
+    "scrollbarSlider.hoverBackground": "#4C566A88",
+    "scrollbarSlider.activeBackground": "#4C566ABB",
     "editorStickyScroll.border": "#1E2430",
     "editorStickyScroll.shadow": "#1E2430",
+
+    // Editor Widget (Ctrl+F search, replace)
+
+    "editorWidget.background": "#404858",
+    "editorWidget.border": "#4C566A",
 
     // Hover / Tooltip
 
@@ -141,14 +149,14 @@
 
     // Diff / Merge
 
-    "diffEditor.insertedTextBackground": "#3A5C3A60",
-    "diffEditor.removedTextBackground": "#5C3A3A80",
-    "diffEditor.insertedLineBackground": "#3A5C3A30",
-    "diffEditor.removedLineBackground": "#5C3A3A30",
-    "diffEditorGutter.insertedLineBackground": "#3A5C3A30",
-    "diffEditorGutter.removedLineBackground": "#5C3A3A30",
-    "diffEditorOverview.insertedForeground": "#4A9A4A",
-    "diffEditorOverview.removedForeground": "#9A4A4A"
+    "diffEditor.insertedTextBackground": "#57ab5a4d",
+    "diffEditor.removedTextBackground": "#f470674d",
+    "diffEditor.insertedLineBackground": "#347d3926",
+    "diffEditor.removedLineBackground": "#c93c3726",
+    "diffEditorGutter.insertedLineBackground": "#347d3926",
+    "diffEditorGutter.removedLineBackground": "#c93c3726",
+    "diffEditorOverview.insertedForeground": "#57ab5a60",
+    "diffEditorOverview.removedForeground": "#f4706760"
   },
   "tokenColors": [
 
