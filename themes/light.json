@@ -159,7 +159,6 @@
     "diffEditorOverview.removedForeground": "#ef9a9a90"
   },
   "tokenColors": [
-
     // Comments
 
     {
@@ -223,28 +222,6 @@
       "scope": ["entity.name.type.class"],
       "settings": {
         "fontStyle": "bold"
-      }
-    },
-
-    // Functions
-
-    {
-      "scope": [
-        "meta.function entity.name.function",
-        "meta.function support.function"
-      ],
-      "settings": {
-        "fontStyle": "bold"
-      }
-    },
-
-    {
-      "scope": [
-        "meta.function-call entity.name.function",
-        "meta.function-call support.function"
-      ],
-      "settings": {
-        "fontStyle": ""
       }
     },
 
