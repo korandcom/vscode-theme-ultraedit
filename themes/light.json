@@ -106,6 +106,7 @@
 
     // Scrollbar and shadows
 
+    "editorInlayHint.foreground": "#99999960",
     "editorGroupHeader.border": "#CACED4",
     "scrollbar.shadow": "#6a737d33",
     "scrollbarSlider.background": "#959da533",
