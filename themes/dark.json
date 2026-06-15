@@ -48,6 +48,7 @@
     "panel.background": "#404858",
     "panel.border": "#40485880",
     "panelTitle.activeBorder": "#4C566A",
+    "terminal.selectionBackground": "#5E6F8A",
 
     // Status bar
 
