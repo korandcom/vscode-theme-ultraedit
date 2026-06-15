@@ -27,6 +27,8 @@
 
     "titleBar.activeBackground": "#323845",
     "titleBar.activeForeground": "#ECEFF4",
+    "titleBar.inactiveBackground": "#323845",
+    "titleBar.inactiveForeground": "#ECEFF460",
     "titleBar.border": "#40485880",
 
     // Activity bar
