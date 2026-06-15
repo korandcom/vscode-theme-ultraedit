@@ -117,6 +117,7 @@
     "scrollbarSlider.activeBackground": "#83848599",
     "editorStickyScroll.border": "#1E2430",
     "editorStickyScroll.shadow": "#1E2430",
+    "editorStickyScrollHover.background": "#4C566A90",
 
     // Editor Widget (Ctrl+F search, replace)
 
