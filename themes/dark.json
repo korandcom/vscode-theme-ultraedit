@@ -26,7 +26,7 @@
     // Title bar
 
     "titleBar.activeBackground": "#323845",
-    "titleBar.activeForeground": "#ECEFF4",
+    "titleBar.activeForeground": "#ECEFF490",
     "titleBar.inactiveBackground": "#323845",
     "titleBar.inactiveForeground": "#ECEFF460",
     "titleBar.border": "#40485880",
